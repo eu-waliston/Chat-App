@@ -8,7 +8,10 @@
 
 
 <p>Link da apicação</> 
+https://weschat.netlify.app/
+  
+  
 <p> Conta para teste </p>
 <p> Login: Wes </p>
 <p> Senha: 123456 </p>
-https://weschat.netlify.app/
+
