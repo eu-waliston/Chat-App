@@ -9,4 +9,4 @@
 
 Link da apicação 
 
-https://www.weschat.netlify.app
+https://weschat.netlify.app/
